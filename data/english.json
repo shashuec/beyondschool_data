@@ -1,0 +1,403 @@
+{
+    "english": [
+        {
+            "subject": "Grammar",
+            "request":"44*2+3",
+            "chapters": [
+                {
+                    
+                    "chapter":"English",
+                    "chapter_name": "Grammar Indefinite Noun",
+                    "unlock": 1,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "https://aiyu-ayaan.github.io/Data-Share/data/subjects/Indefinite_Noun.json"  ,
+                    "isFetchRequired" : 0
+                },
+                {
+                    
+                    "chapter":"English",
+                    "chapter_name": "Grammar Irregular Noun",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/grammar/IrregularNoun.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Grammar Common And Proper Noun",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/grammar/CommonAndProperNoun.json",
+                    "isFetchRequired" : 0
+                }
+            ]
+        },
+        {
+            "subject": "Spelling_Object",
+            "request":"44*2+1",
+            "chapters": [
+                {
+                    "chapter":"English",
+                    "chapter_name": "Spelling_Object Birds 1",
+                    "unlock": 1,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Birds_1.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Spelling_Object Birds 2",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Birds_2.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Spelling_Object Birds 3",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Birds_3.json",
+                    "isFetchRequired" : 0
+                }
+            ]
+        },
+        {
+            "subject": "Spelling_CommonWord",
+            "request":"44*2+2",
+            "chapters": [
+                {
+                    "chapter":"English",
+                    "chapter_name": "Spelling_CommonWord Most Common Words 1",
+                    "unlock": 1,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/MostCommonWords_1.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Spelling_CommonWord Most Common Words 2",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/MostCommonWords_2.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Spelling_CommonWord Words with short ‘a’ sounds",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/spelling/Words_with_short_a_sounds.json",
+                    "isFetchRequired" : 0
+                }
+            ]
+        },
+                {
+            "subject": "Vocabulary",
+            "request":"44*2",
+            "chapters": [
+                {
+                    "chapter":"English",
+                    "chapter_name": "Vocabulary Bathroom_1",
+                    "unlock": 1 ,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/vocabulary/Bathroom_1.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Vocabulary Bathroom_2",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/vocabulary/Bathroom_2.json",
+                    "isFetchRequired" : 0
+                },
+                {
+                    "chapter":"English",
+                    "chapter_name": "Vocabulary Bodyparts_1",
+                    "unlock": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path": "english/vocabulary/Bodyparts_1.json",
+                    "isFetchRequired" : 0
+                }
+            ]
+        }
+    ],
+     "maths": [
+       {
+            "subject": "Addition",
+            "request":null,
+            "chapters": [
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "1 -Digit Addition",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "2 -Digit Addition",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "3 -Digit Addition",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "4 -Digit Addition",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 0,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                }
+                ,
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "5 -Digit Addition",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 0,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                }
+            ]
+        },
+        {
+            "subject": "Subtraction",
+            "request":null,
+            "chapters": [
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "1 -Digit Subtraction",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "2 -Digit Subtraction",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "3 -Digit Subtraction",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "4 -Digit Subtraction",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 0,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                }
+                ,
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "5 -Digit Subtraction",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 0,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                }
+            ]
+        },
+        {
+            "subject": "Multiplication",
+            "request":null,
+            "chapters": [
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "Multiplication up to 10 's table",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "Multiplication up to 12 's table",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    "chapter":"Mathematics",
+                    "chapter_name": "Multiplication up to 15 's table",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 0,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                }
+            ]
+        },
+        {
+            "subject": "Subtraction",
+            "request":null,
+            "chapters": [
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "1 -Digit Division",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "2 -Digit Division",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                },
+                {
+                    
+                    "chapter":"Mathematics",
+                    "chapter_name": "4 -Digit Division",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grade1": 0,
+                    "grade2": 0,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "path":""
+                }
+            ]
+        }
+    ]
+}

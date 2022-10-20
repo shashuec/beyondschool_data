@@ -1,0 +1,126 @@
+{
+    "maths": [
+        {
+            "subject": "Addition",
+            "chapter": [
+                {
+                    "chapter_name": "1 digit Addition ",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                }
+            ]
+        },
+        {
+            "subject": "Subtraction",
+            "chapter": [
+                {
+                    "chapter_name": "1 digit Subtraction ",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                }
+            ]
+        },
+        {
+            "subject": "Multiplication",
+            "chapter": [
+                {
+                    "chapter_name": "1 digit Multiplication ",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                }
+            ]
+        },
+        {
+            "subject": "Division",
+            "chapter": [
+                {
+                    "chapter_name": "1 digit Division ",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                }
+            ]
+        }
+    ],
+    "english": [
+        {
+            "subject": "Grammar",
+            "chapter": [
+                {
+                    "chapter_name": "Indefinite Noun",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                },
+                {
+                    "chapter_name": "Irregular Noun",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                },
+                {
+                    "chapter_name": "Common And Proper Noun",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                }
+            ]
+        },
+        {
+            "subject": "Vocabulary",
+            "grades1": 1,
+            "grade2": 1,
+            "chapter": [
+                {
+                    "chapter_name": "Synonyms",
+                    "unlock": 0,
+                    "isCompleted": 0,
+                    "grades1": 1,
+                    "grade2": 1,
+                    "grade3": 1,
+                    "grade4": 1,
+                    "grade5": 1,
+                    "content": null
+                }
+            ]
+        }
+    ]
+}
