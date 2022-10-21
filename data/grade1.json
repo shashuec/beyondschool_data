@@ -8,63 +8,54 @@
           "id": 1,
           "chapter_name": "Nouns",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 2,
           "chapter_name": "Number words",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 3,
           "chapter_name": "Odd one out from the group",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 4,
           "chapter_name": "Synonyms",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 5,
           "chapter_name": "Antonyms",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 6,
           "chapter_name": "Shades of meaning",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 7,
           "chapter_name": "Prefix and Suffix",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 8,
           "chapter_name": "Understanding words with Prefix and Suffix",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         },
         {
           "id": 9,
           "chapter_name": "Context clues",
           "unlock": 1,
-          "path": "",
           "isFetchRequired": 0
         }
       ]
