@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "hint": "Synonyms are words with the same or  almost the same meaning. eg. Dad and  Father.",
+    "question": null,
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Grin, Smile ",
+      "image": null,
+      "description": "Find two synonyms below. ",
+      "extra": "Grin,Sad, Smile  "
+    },
+    {
+      "word": "Puppy, Dog",
+      "image": null,
+      "description": "Find two synonyms below.   ",
+      "extra": "Puppy, Monkey, Dog"
+    },
+    {
+      "word": "big, large",
+      "image": null,
+      "description": "Find two synonyms below.   ",
+      "extra": "Best, Big, Large"
+    },
+    {
+      "word": "Hear, Listen",
+      "image": null,
+      "description": "Find two synonyms below.   ",
+      "extra": "Hear, listen, noise"
+    },
+    {
+      "word": "Neat, Tidy",
+      "image": null,
+      "description": "Find two synonyms below.   ",
+      "extra": "Dirty, Neat, Tidy"
+    }
+  ]
+}

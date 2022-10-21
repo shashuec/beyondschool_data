@@ -1,0 +1,38 @@
+{
+  "meta":{
+    "hint": "A prefix can be added to the beginning of a  word to make a new word. eg. re+do = redo  A suffix can be added to the end of a word to make a new word. eg. help+ful = helpful  The prefix re- means again. The prefix un- means not or the opposite of. The suffix -ful means full of. The suffix -less means without.",
+    "question": "Complete the sentence with the right suffix.         ",
+    "screen_type": null
+  },
+  "content":[
+  {
+    "word": "less         ",
+    "description": "The room was sound___. The room was without sound.",
+    "image": null,
+    "extra": "ful, less"
+  },
+  {
+    "word": "ful",
+    "description": "That painting is color___. That painting is so full of colors.",
+    "image": null,
+    "extra": "ful, "
+  },
+  {
+    "word": "less",
+    "description": "I like seed___ oranges. I like oranges without seed.",
+    "image": null,
+    "extra": "ful, "
+  },
+  {
+    "word": "re",
+    "description": "We must  __start the game. We must start the game again.",
+    "image": null,
+    "extra": "re, "
+  },
+  {
+    "word": "un",
+    "description": "That girl was __kind to me. That girl was not kind to me.",
+    "image": null,
+    "extra": "un, "
+  }
+]}
