@@ -7,37 +7,37 @@
   "content": [
     {
       "word": "Pictures",
-      "description": "Look at the images in this book. They show gardens in Japan. What do images mean?",
+      "description": "Look at the <b>images</b> in this book. They show gardens in Japan. What do images mean?",
       "image": null,
-      "extra": "Pictures, Words    "
+      "extra": "Pictures, Words"
     },
     {
       "word": "bad",
-      "description": "The biscuits were good, but  the cake was dreadful. What does dreadful mean?",
+      "description": "The biscuits were good, but  the cake was <b>dreadful</b>. What does dreadful mean?",
       "image": null,
       "extra": "bad, white"
     },
     {
       "word": "hungry",
-      "description": "The puppy was famished.  She ate everything we gave her. What does famished mean?",
+      "description": "The puppy was <b>famished</b>.  She ate everything we gave her. What does famished mean?",
       "image": null,
       "extra": "hungry, little"
     },
     {
       "word": "dry up",
-      "description": "Without water, these flowers will shrivel. What does shrivel mean?",
+      "description": "Without water, these flowers will <b>shrivel</b>. What does shrivel mean?",
       "image": null,
       "extra": "get wet, dry up"
     },
     {
       "word": "short",
-      "description": "Are you going on a brief trip or a long one? What does brief mean?",
+      "description": "Are you going on a <b>brief</b> trip or a long one? What does brief mean?",
       "image": null,
       "extra": "short, new"
     },
     {
       "word": "far away",
-      "description": "Max moved to a distant town,  and now we never see him anymore. What does distant mean?",
+      "description": "Max moved to a <b>distant</b> town,  and now we never see him anymore. What does distant mean?",
       "image": null,
       "extra": "far away, near by"
     }
