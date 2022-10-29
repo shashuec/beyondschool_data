@@ -2,70 +2,118 @@
   "english": [
     {
       "subject": "Vocabulary",
-    
+
       "chapters": [
         {
           "id": "vocab1",
           "chapter_name": "Nouns",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab2",
           "chapter_name": "Number words",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab3",
           "chapter_name": "Odd one out from the group",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab4",
           "chapter_name": "Synonyms",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab5",
           "chapter_name": "Antonyms",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab6",
           "chapter_name": "Shades of meaning",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab7",
           "chapter_name": "Prefix and Suffix",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab8",
           "chapter_name": "Understanding words with Prefix and Suffix",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
         },
         {
           "id": "vocab9",
           "chapter_name": "Context clues",
           "unlock": 1,
           "isFetchRequired": 0,
-            "request": "44*2"
+          "request": "44*2"
+        }
+      ]
+    },
+    {
+      "subject": "Spelling_CommonWords",
+
+      "chapters": [
+        {
+          "id": "spellcw1",
+          "chapter_name": "Most Common Words 1",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw2",
+          "chapter_name": "Words with 'L' blends",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw3",
+          "chapter_name": "Words with 'sh'",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw4",
+          "chapter_name": "Words with double consonants",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw5",
+          "chapter_name": "Words with Long 'o' sound",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "spellcw6",
+          "chapter_name": "Words with short 'a' sounds",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
         }
       ]
     }
