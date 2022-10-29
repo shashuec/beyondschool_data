@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Synonyms are words with the same meaning or almost the same meaning. eg. Dad and Father.",
+    "hint": "Synonyms are words with the same meaning or almost the same meaning. Example Dad and Father.",
     "question": "Identify the synonym of the word in the context.",
     "screen_type": null
   },
