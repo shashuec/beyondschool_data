@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "hint": "Some words are alike but have differences in meaning. Those differences are called Shades of meaning. eg. Walking and Running. They both are ways to move, but running is faster than walking.",
+    "question": "Describe the difference between related words.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "Something huge  Huge means very big.",
+      "description": "Which is larger?<br>Select the correct meaning which matches the description in the question below.",
+      "image": null,
+      "extra": "something big, something huge"
+    }
+  ]
+}

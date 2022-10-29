@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "hint": "A compound word is made from two smaller words.",
+    "question": "Identify the correct homophone of the word.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "no",
+      "description": "There are no nuts left for the cake.<br>Select the homophone of know.",
+      "image": null,
+      "extra": "nuts, no, cake"
+    },
+    {
+      "word": "sea",
+      "description": "A silver fish swam in the sea<br>Select the homophone of See.",
+      "image": null,
+      "extra": "sea, fish, seen"
+    },
+    {
+      "word": "hear",
+      "description": "Did you hear what he said?<br>Select the homophone of here.",
+      "image": null,
+      "extra": "hear, he, heard"
+    },
+    {
+      "word": "two",
+      "description": "We need two people for this work.<br>Select the homophone of to",
+      "image": null,
+      "extra": "two, people, work"
+    },
+    {
+      "word": "too",
+      "description": "You too can join us for the party.<br>Select the homophone of two",
+      "image": null,
+      "extra": "too, can, join"
+    }
+  ]
+}
