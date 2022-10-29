@@ -1,0 +1,80 @@
+{
+  "english": [
+    {
+      "subject": "Vocabulary",
+
+      "chapters": [
+        {
+          "id": "vocab1",
+          "chapter_name": "Antonyms",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab2",
+          "chapter_name": "Base words, Prefix, Suffix",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab3",
+          "chapter_name": "Homophones in sentences",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab4",
+          "chapter_name": "Homophones with pictures",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab5",
+          "chapter_name": "Meaning of the word with -ful or -less.",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab6",
+          "chapter_name": "Meaning of the word with -pre, -re, or -mis",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab7",
+          "chapter_name": "Odd one out from the group",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab8",
+          "chapter_name": "Shades of meaning",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab9",
+          "chapter_name": "Synonyms",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        },
+        {
+          "id": "vocab10",
+          "chapter_name": "Use correct homophone",
+          "unlock": 1,
+          "isFetchRequired": 0,
+          "request": "44*2"
+        }
+      ]
+    }
+  ]
+}
