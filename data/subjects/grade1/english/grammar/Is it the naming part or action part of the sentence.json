@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Every sentence has a naming part and an action part.\r The naming part tells who or what the sentence is about.\r eg. That building is so tall.\r eg. Rocky is sad.\r The action part tells something about the naming part. \r The action part can tell what the naming part does. It can also\r tell what the naming part is like.\r eg. That building is so tall.\r eg. Rocky is sad.",
+    "question": null,
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "action part",
+      "description": "Tell whether the part of the sentence in bold is the naming part or \r the action part? <br> \"Mary and Luna wrote poems.\"",
+      "image": null,
+      "extra": "action part, \r naming part"
+    },
+    {
+      "word": "naming part",
+      "description": "Tell whether the part of the sentence in bold is the naming part or \r the action part? <br> \"Rosy dances very well.\"",
+      "image": null,
+      "extra": "action part, \r naming part"
+    }
+  ]
+}

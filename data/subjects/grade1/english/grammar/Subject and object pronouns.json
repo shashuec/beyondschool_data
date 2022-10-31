@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "A subject pronoun tells who is doing something. It is usually at \r the beginning of the sentence. The subject pronouns are I, you, \r he, she, it, we, and they.\r eg. I met Rick.\r eg. They helped Stan.\r \r An object pronoun comes after an action verb. The object \r pronouns are me, you, him, her, it, us, and them.\r eg. Rick met me.\r eg. Stan helps them.",
+    "question": "Complete the sentence with the best pronoun.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "I ",
+      "description": "_____ will feed the pigeons.",
+      "image": null,
+      "extra": "I, Me"
+    },
+    {
+      "word": "her",
+      "description": "I don't know _____.",
+      "image": null,
+      "extra": "they, her"
+    }
+  ]
+}

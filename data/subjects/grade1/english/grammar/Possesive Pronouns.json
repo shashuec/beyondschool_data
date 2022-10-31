@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Possessive pronouns take the place of possessive nouns. They \r show who owns something or has something.\r The ball belongs to Ron. It is his (Ron's) ball.\r My, your, his, her, its, our and there are possessive pronouns. \r They can also be called possessive adjectives.\r \r ",
+    "question": null,
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "my",
+      "description": "Complete the sentence with correct Possessive Pronouns. <br> \r That dress belongs to me. It is _____ dress.",
+      "image": null,
+      "extra": "her, my"
+    },
+    {
+      "word": "his",
+      "description": "Complete the sentence with correct Possessive Pronouns. <br> \r That dog belongs to him. It is _____ dog.",
+      "image": null,
+      "extra": "his, our"
+    }
+  ]
+}

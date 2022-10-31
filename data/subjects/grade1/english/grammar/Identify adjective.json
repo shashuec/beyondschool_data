@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "An adjective is a word that tells you about a person, animal, place or thing.\r Some adjectives tell you what kind.\r eg. He sees a big lorry.\t\r eg. We have a green ball.\t\r \r Some adjectives tell you how many.\r eg. Kim sees two apples.\t\r eg. I have three English books.\t\r \r ",
+    "question": null,
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "gentle",
+      "description": "The gentle wind blows the leaves.",
+      "image": null,
+      "extra": "leaves, gentle, blow"
+    },
+    {
+      "word": "seven",
+      "description": "It has seven circles",
+      "image": null,
+      "extra": "seven, has, circles"
+    }
+  ]
+}

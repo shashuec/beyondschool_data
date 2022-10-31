@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "same as above",
+    "question": "Select the preposition to complete the sentence.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "outside",
+      "description": "It is cold _____.",
+      "image": null,
+      "extra": "outside, behind"
+    },
+    {
+      "word": "besides",
+      "description": "I sit _____ my friend in the class.",
+      "image": null,
+      "extra": "beside, above"
+    }
+  ]
+}
