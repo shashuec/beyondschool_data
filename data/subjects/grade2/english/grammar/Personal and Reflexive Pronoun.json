@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Reflexive pronouns are pronouns that end in -self or -selves.\r Subject (singular)        Reflexive pronoun\r             I                                myself\r           you                            yourself\r           she                             herself\r            he                              himself\r             it                                 itself\r \r Subject (plural)\u2007\u2007\u2006        Reflexive pronoun\r         we                             ourselves\r         you                            yourselves\r         they                           themselves\r \r Reflexive pronouns are used to refer back to the subject of a sentence. They should \r match the subject.\r Example - We helped ourselves to some more soup.\r The subject of the sentence is we, so use ourselves.\r \r Example - Amy drives herself to work every morning.\r The subject of the sentence, Amy, can be called she, so use herself.\r \r A reflexive pronoun can only be used to refer to the subject. To refer to someone else or \r something else, a personal pronoun, like me, you, him, her, it, us or them, should be \r used instead.\r Example - Jake wrote a note for himself.\r The reflexive pronoun, himself, refers back to the subject, Jake.\r \r Example -Jake wrote a note for him.\r The personal pronoun, him, must refer to someone other than the subject, Jake.",
+    "question": "Select the best pronoun to complete\r the sentence.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "me",
+      "description": "She helped _____ complete the work.",
+      "image": null,
+      "extra": "me, myself"
+    },
+    {
+      "word": "itself",
+      "description": "The bird was pecking at _____.",
+      "image": null,
+      "extra": "itself, herself"
+    }
+  ]
+}

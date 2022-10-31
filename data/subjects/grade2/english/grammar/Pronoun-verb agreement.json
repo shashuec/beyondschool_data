@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "The subject and the verb in a sentence must agree.\r The subject pronouns she, he and it name only one person or thing, so they are singular. \r When a subject is singular, use a singular verb. Singular verbs end in -s or -es.\r Example - He watches the neighbour's baby.\r                  It needs a new lock.\r The subject pronouns we and they name more than one person or thing, so they are plural. \r The pronoun you can also be plural. When a subject is plural, use a plural verb. Plural \r verbs usually do not end in -s or -es.\r Example - We walk home.\r                  They finish early.\r The singular subject pronouns I and you do not follow these rules. They name only one\r person or thing, but they should be used with plural verbs.\r Example - You sing better than I do!\r                  I close the windows at night.",
+    "question": "Select the best verb to complete the\r sentence.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "climbs",
+      "description": "The monkey _____ the tree.",
+      "image": null,
+      "extra": "climb, climbs"
+    },
+    {
+      "word": "paint",
+      "description": "They _____ the wall.",
+      "image": null,
+      "extra": "paints, paint"
+    }
+  ]
+}

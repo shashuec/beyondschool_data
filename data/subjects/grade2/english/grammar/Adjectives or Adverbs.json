@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "An adjective is a word that tells you about a noun. Adjectives often describe what kind or \r how many.\r Example - Jodie saw three stars in the sky.\r                   The adjective tells you how many stars Jodie saw.\r \r An adverb is a word that tells you about a verb. Adverbs often describe how, when, or where.\r Grace ran quickly.\r Example - The adverb tells you how Grace ran.\r                  Most adverbs that describe how end in -ly, like the adverb quickly.",
+    "question": "Choose the word that best describes \r the noun in bold.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "safe",
+      "description": "Keep your money at a _____ <b> place </b>. ",
+      "image": null,
+      "extra": "safely, safe"
+    },
+    {
+      "word": "nicely",
+      "description": "Rosie made my birthday <b> card </b> _____.",
+      "image": null,
+      "extra": "nice, nicely"
+    }
+  ]
+}

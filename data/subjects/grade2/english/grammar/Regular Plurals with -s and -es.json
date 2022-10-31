@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Singular means one. Plural means more than one.\r With most singular words, add -s to make them plural.\r one tree \u2192 two trees, one book \u2192 five books\r \r In some singular words, add -es to make them plural.\r one bus \u2192 two buses, one potato \u2192 three potatoes",
+    "question": "Select the correct plural form of the \r word in bold.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "watches",
+      "description": "I have two <b> watch </b>.",
+      "image": null,
+      "extra": "watchs, watches"
+    },
+    {
+      "word": "Photos",
+      "description": "We clicked many <b> photo </b>.",
+      "image": null,
+      "extra": "photoes, photos"
+    }
+  ]
+}

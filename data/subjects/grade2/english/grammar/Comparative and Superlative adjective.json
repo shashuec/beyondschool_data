@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "hint": "Some adjectives compare people, animals, places or things.\r Comparative adjectives compare two people, animals, places or things. They end in -er.\r Andy is taller than his sister.        \r Superlative adjectives compare more than two people, animals, places or things. They end \r in -est.\r He is the tallest person in his class.",
+    "question": "Select the adjective that compares.",
+    "screen_type": null
+  },
+  "content": [
+    {
+      "word": "nicest",
+      "description": "Mary is the _____ person I know.",
+      "image": "nicest, nicer",
+      "extra": null
+    },
+    {
+      "word": "smaller",
+      "description": "She is _____ than her brother.",
+      "image": "smallest, smaller",
+      "extra": null
+    }
+  ]
+}
