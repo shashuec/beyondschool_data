@@ -13,39 +13,40 @@
         },
         {
           "id": "vocab2",
-          "chapter_name": "Detemine the meaning of word with -able or -ment",
+          "chapter_name": "Synonyms",
           "unlock": 1,
           "isFetchRequired": 0,
           "request": "44*2"
         },
         {
           "id": "vocab3",
-          "chapter_name": "Determine the meaning of the word with -ly or -ness",
+          "chapter_name": "Detemine the meaning of word with -able or -ment",
           "unlock": 1,
           "isFetchRequired": 0,
           "request": "44*2"
         },
         {
           "id": "vocab4",
-          "chapter_name": "Determine the meaning of the word with prefixes and suffixes",
+          "chapter_name": "Determine the meaning of the word with -ly or -ness",
           "unlock": 1,
           "isFetchRequired": 0,
           "request": "44*2"
         },
         {
           "id": "vocab5",
-          "chapter_name": "Difference between related words",
+          "chapter_name": "Determine the meaning of the word with prefixes and suffixes",
           "unlock": 1,
           "isFetchRequired": 0,
           "request": "44*2"
         },
         {
           "id": "vocab6",
-          "chapter_name": "Form and use compound words",
+          "chapter_name": "Difference between related words",
           "unlock": 1,
           "isFetchRequired": 0,
-          "request": "LETTER_BY_LETTER"
+          "request": "44*2"
         },
+      
         {
           "id": "vocab7",
           "chapter_name": "Greek and latin roots as clues to the meaning of the word",
