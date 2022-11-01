@@ -44,7 +44,7 @@
           "chapter_name": "Form and use compound words",
           "unlock": 1,
           "isFetchRequired": 0,
-          "request": "44*2"
+          "request": "LETTER_BY_LETTER"
         },
         {
           "id": "vocab7",
