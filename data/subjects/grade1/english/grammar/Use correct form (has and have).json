@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "has",
-      "description": "Smita ______ an orange.",
+      "description": "Smita _____ an orange.",
       "image": null,
       "extra": "have,has"
     },
     {
       "word": "have",
-      "description": "They ______ two cars.",
+      "description": "They _____ two cars.",
       "image": null,
       "extra": "have, has"
     }

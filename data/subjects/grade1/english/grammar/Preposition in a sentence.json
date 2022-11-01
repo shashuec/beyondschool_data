@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "outside",
-      "description": "It is cold ______.",
+      "description": "It is cold _____.",
       "image": null,
       "extra": "outside, behind"
     },
     {
       "word": "besides",
-      "description": "I sit ______ my friend in the class.",
+      "description": "I sit _____ my friend in the class.",
       "image": null,
       "extra": "beside, above"
     }

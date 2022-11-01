@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "I",
-      "description": "My brother and ______ love chocolates.",
+      "description": "My brother and _____ love chocolates.",
       "image": null,
       "extra": "I, me"
     },
     {
       "word": "me",
-      "description": "They surprised David and ______.",
+      "description": "They surprised David and _____.",
       "image": null,
       "extra": "I, me"
     }

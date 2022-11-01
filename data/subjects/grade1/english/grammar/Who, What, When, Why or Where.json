@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "Where",
-      "description": "______ is my book?",
+      "description": "_____ is my book?",
       "image": null,
       "extra": "Who, Where"
     },
     {
       "word": "Why",
-      "description": "______ are you crying?",
+      "description": "_____ are you crying?",
       "image": null,
       "extra": "What, Why"
     }

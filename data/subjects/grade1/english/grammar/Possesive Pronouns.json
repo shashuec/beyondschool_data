@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "my",
-      "description": "Complete the sentence with correct Possessive Pronouns. <br>That dress belongs to me. It is ______ dress.",
+      "description": "Complete the sentence with correct Possessive Pronouns. <br>That dress belongs to me. It is _____ dress.",
       "image": null,
       "extra": "her, my"
     },
     {
       "word": "his",
-      "description": "Complete the sentence with correct Possessive Pronouns. <br>That dog belongs to him. It is ______ dog.",
+      "description": "Complete the sentence with correct Possessive Pronouns. <br>That dog belongs to him. It is _____ dog.",
       "image": null,
       "extra": "his, our"
     }

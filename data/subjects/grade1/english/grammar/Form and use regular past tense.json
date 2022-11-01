@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "opened",
-      "description": "Tom ______ his closet to find his coat.",
+      "description": "Tom _____ his closet to find his coat.",
       "image": null,
       "extra": "open, opening, opened"
     },
     {
       "word": "asked",
-      "description": "I ______ asked my mother to make sandwiches for me.",
+      "description": "I _____ asked my mother to make sandwiches for me.",
       "image": null,
       "extra": "asked, asking,ask"
     }
