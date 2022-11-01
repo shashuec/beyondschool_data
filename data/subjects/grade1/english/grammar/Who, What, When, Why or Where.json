@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Use who to ask about a person.<br> example Who saw the bird first?<br> Use what to ask about a thing.<br> example What do birds eat?<br> Use when to ask about a time.<br> example When do birds sleep?<br> Use where to ask about a place.<br> example Where is the bird's nest?<br> Use why to ask for a reason.<br> example Why do birds sing?",
+    "hint": "Use who to ask about a person.example Who saw the bird first?<br> Use what to ask about a thing.example What do birds eat?<br> Use when to ask about a time.example When do birds sleep?<br> Use where to ask about a place.example Where is the bird's nest?<br> Use why to ask for a reason.example Why do birds sing?",
     "question": "Complete the sentence with the best question word?",
     "screen_type": null
   },
