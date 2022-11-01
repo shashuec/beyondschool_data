@@ -270,14 +270,6 @@
         ,
         {
           "id": "grm20",
-          "chapter_name": "Use the correct Article : a or an",
-          "unlock": 1,
-          "isFetchRequired": 0,
-          "request": "44*2"
-        }
-        ,
-        {
-          "id": "grm21",
           "chapter_name": "Identify adjective",
           "unlock": 1,
           "isFetchRequired": 0,
@@ -286,7 +278,7 @@
       
         ,
         {
-          "id": "grm22",
+          "id": "grm21",
           "chapter_name": "Comparative and Superlative adjective",
           "unlock": 1,
           "isFetchRequired": 0,
@@ -294,7 +286,7 @@
         }
         ,
         {
-          "id": "grm23",
+          "id": "grm22",
           "chapter_name": "Preposition with pictures",
           "unlock": 1,
           "isFetchRequired": 0,
@@ -302,7 +294,7 @@
         }
         ,
         {
-          "id": "grm24",
+          "id": "grm23",
           "chapter_name": "Preposition in a sentence",
           "unlock": 1,
           "isFetchRequired": 0,
