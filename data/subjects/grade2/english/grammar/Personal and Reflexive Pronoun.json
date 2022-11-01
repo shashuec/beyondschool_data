@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "me",
-      "description": "She helped _____ complete the work.",
+      "description": "She helped ______ complete the work.",
       "image": null,
       "extra": "me, myself"
     },
     {
       "word": "itself",
-      "description": "The bird was pecking at _____.",
+      "description": "The bird was pecking at ______.",
       "image": null,
       "extra": "itself, herself"
     }

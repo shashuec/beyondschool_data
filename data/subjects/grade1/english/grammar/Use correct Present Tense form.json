@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "are",
-      "description": "Your books _____ scattered on the table.",
+      "description": "Your books ______ scattered on the table.",
       "image": null,
       "extra": "are, is"
     },
     {
       "word": "is",
-      "description": "My friend _____ is coming home today.",
+      "description": "My friend ______ is coming home today.",
       "image": null,
       "extra": "is, am"
     }

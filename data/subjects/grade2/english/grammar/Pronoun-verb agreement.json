@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "climbs",
-      "description": "The monkey _____ the tree.",
+      "description": "The monkey ______ the tree.",
       "image": null,
       "extra": "climb, climbs"
     },
     {
       "word": "paint",
-      "description": "They _____ the wall.",
+      "description": "They ______ the wall.",
       "image": null,
       "extra": "paints, paint"
     }

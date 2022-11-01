@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "nicest",
-      "description": "Mary is the _____ person I know.",
+      "description": "Mary is the ______ person I know.",
       "image": "nicest, nicer",
       "extra": null
     },
     {
       "word": "smaller",
-      "description": "She is _____ than her brother.",
+      "description": "She is ______ than her brother.",
       "image": "smallest, smaller",
       "extra": null
     }

@@ -7,13 +7,13 @@
   "content": [
     {
       "word": "was",
-      "description": "She _____ rude to me.",
+      "description": "She ______ rude to me.",
       "image": null,
       "extra": "was, were"
     },
     {
       "word": "were",
-      "description": "They _____ best friends.",
+      "description": "They ______ best friends.",
       "image": null,
       "extra": "were,was"
     }
