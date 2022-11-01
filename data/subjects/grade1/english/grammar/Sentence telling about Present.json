@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Some verbs tell you about something that has already happened.\r These verbs tell you about the past. They usually end in -ed.\r eg. We walked to the shops yesterday.\r eg. The show started last week.\r \r Some verbs tell you about something that is happening now. \r These verbs tell you about the present. They usually have no \r end, or they end in -s.\r We walk to school today.\r eg. The show starts now.\r \r Some verbs tell you about something that is going to happen.\r  These verbs tell you about the future. They use the word will.\r We will walk to the park next week.\r eg. The party will start soon.\r \r ",
+    "hint": "Some verbs tell you about something that has already happened.<br> These verbs tell you about the past. They usually end in -ed.<br> example We walked to the shops yesterday.<br> example The show started last week.<br> <br> Some verbs tell you about something that is happening now. <br> These verbs tell you about the present. They usually have no <br> end, or they end in -s.<br> We walk to school today.<br> example The show starts now.<br> <br> Some verbs tell you about something that is going to happen.<br>  These verbs tell you about the future. They use the word will.<br> We will walk to the park next week.<br> example The party will start soon.<br> <br> ",
     "question": null,
     "screen_type": null
   },
@@ -9,13 +9,13 @@
       "word": "I love my new pets.",
       "description": "Which sentence tells you about the present?",
       "image": null,
-      "extra": "I love my pets,\r I will go to my aunt's house."
+      "extra": "I love my pets,I will go to my aunt's house."
     },
     {
       "word": "She plays basketball",
       "description": "Which sentence tells you about the present?",
       "image": null,
-      "extra": "He went to church,\r She plays basketball."
+      "extra": "He went to church,She plays basketball."
     }
   ]
 }

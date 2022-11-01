@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Some verbs tell you about something that has already happened. \r These verbs tell you about the past. They usually end in -ed.\r eg. We walked to the park yesterday.\r eg. We looked at the flowers there.\r \r Some verbs are irregular in the past tense. These verbs change their \r spelling to tell you about the past. You have to remember what spelling \r to use.\r eg. We saw some ducks at the park. (See -> Saw)\r eg. We ate lunch on the grass. (Eat -> Ate)",
+      "hint": "Some verbs tell you about something that has already happened. <br> These verbs tell you about the past. They usually end in -ed.<br> example We walked to the park yesterday.<br> example We looked at the flowers there.<br> <br> Some verbs are irregular in the past tense. These verbs change their <br> spelling to tell you about the past. You have to remember what spelling <br> to use.<br> example We saw some ducks at the park. (See -> Saw)<br> example We ate lunch on the grass. (Eat -> Ate)",
     "question": null,
     "screen_type": null
   },
@@ -9,13 +9,13 @@
       "word": "I wore my favorite dress.",
       "description": "Select the sentence with irregular past tense.",
       "image": null,
-      "extra": "I wear my favorite dress,\r I wore my favorite dress."
+      "extra": "I wear my favorite dress,I wore my favorite dress."
     },
     {
       "word": "Shalini wrote a letter to her father.",
       "description": "Select the sentence with irregular past tense.",
       "image": null,
-      "extra": "Shalini write a letter to her father,\r Shalini wrote a letter to her father."
+      "extra": "Shalini write a letter to her father,Shalini wrote a letter to her father."
     }
   ]
 }
