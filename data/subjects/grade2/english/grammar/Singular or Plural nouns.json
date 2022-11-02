@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Some plurals are irregular. They don't follow rules, so you must remember each one.\r child \u2192 children\tmouse \u2192 mice\twoman \u2192 women\r ",
+    "hint": "Some plurals are irregular. They don't follow rules, so you must remember each one. child → children mouse → mice woman → women",
     "question": "Is the noun in bold singular or plural?",
     "screen_type": null
   },

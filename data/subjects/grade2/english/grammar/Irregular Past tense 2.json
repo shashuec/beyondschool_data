@@ -1,7 +1,7 @@
 {
   "meta": {
-    "hint": "Most verbs are regular in the past tense. That means you follow a rule like \"add -ed\" or \r \"add -d\" to get the past-tense form of the verb.\r Some verbs are irregular in the past tense. That means you don't follow a rule. \r Instead, you must remember the past-tense form of the verb.\r Example - Luis did his homework.\r (Did is the irregular past-tense form of do.)",
-    "question": "Select the sentence with correct \r irregular past tense.",
+    "hint": "Most verbs are regular in the past tense. <br> That means you follow a rule like 'add -ed' or 'add -d' to get the past-tense form of the verb. <br> Some verbs are irregular in the past tense. That means you don't follow a rule. Instead, you must remember the past-tense form of the verb. <br> Example - Luis did his homework. (Did is the irregular past-tense form of do.)",
+    "question": "Select the sentence with correct example irregular past tense.",
     "screen_type": null
   },
   "content": [
@@ -9,13 +9,13 @@
       "word": "She ate dinner with her family.",
       "description": "Which sentence is in the past tense?",
       "image": null,
-      "extra": "She <b> ate </b> dinner with her \r family,\r She <b> eats </b> dinner with her \r family."
+      "extra": "She <b> ate </b> dinner with her example family,example She <b> eats </b> dinner with her example family."
     },
     {
       "word": "I felt she is hiding something.",
       "description": "Which sentence is in the past tense?",
       "image": null,
-      "extra": "I <b> feel </b> she is hiding \r something,\r I <b> felt </b> she is hiding \r something."
+      "extra": "I <b> feel </b> she is hiding example something,example I <b> felt </b> she is hiding example something."
     }
   ]
 }
