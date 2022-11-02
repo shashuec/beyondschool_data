@@ -83,7 +83,7 @@
         {
           "id": "grm1",
           "chapter_name": "Statement, Command, question or exclamation",
-          "unlock": 0,
+          "unlock": 1,
           "isFetchRequired": 0,
           "request": "44*2"
         },
