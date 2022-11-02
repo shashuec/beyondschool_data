@@ -1,6 +1,6 @@
 {
     "meta": {
-        "hint": "A prefix can be added to the beginning of a base word. Some common prefixes are mis-, pre- and  re-. A suffix can be added to the end of a base word.  Some common suffixes are -able, -ful, -less, -ly,  -ment and -ness. Both prefixes and suffixes change the meaning  of the base word.",
+        "hint": "A <b> prefix </b> can be added to the beginning of a base word. Some common prefixes are mis-, pre- and re-. <br> A <b> suffix </b> can be added to the end of a base word. Some common suffixes are -able, -ful, -less, -ly, -ment and -ness. <br> Both prefixes and suffixes change the meaning of the base word.",
         "question": "Select the correct meaning of the  word with Prefix  and suffix.",
         "screen_type": null
     },

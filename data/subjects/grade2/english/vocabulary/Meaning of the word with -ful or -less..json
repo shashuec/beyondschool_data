@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "The suffix -ful means full of. The suffix -less means without.",
+      "hint": "The suffix -ful means full of. <br> The suffix -less means without.",
     "question": "Determine the meaning of the word with the suffix.",
     "screen_type": null
   },

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "hint": "A suffix can be added to the end of a word. It  changes the meaning of the word. The suffix -ly means in a certain way. Sadly means in a sad way. The suffix -ness means the state of being. Sadness means the state of being sad.",
+        "hint": "A <b> suffix </b> can be added to the end of a word. It changes the meaning of the word. <br> The suffix -ly means in a certain way. Example - Sadly means in a sad way. <br> The suffix -ness means the state of being. Example - Sadness means the state of being sad.",
         "question": "Select the correct meaning of the  word with suffix -ly and -ness.",
         "screen_type": null
     },

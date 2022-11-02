@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Base words are words that can be combined with prefixes and suffixes. They also can be used on their own. Example Unhelpful -> Base word is help, the prefix is -un, and the suffix is -ful. ",
+      "hint": "Base words are words that can be combined with prefixes and suffixes. They also can be used on their own. <br> Example - Unhelpful -> Base word is help, the prefix is -un, and the suffix is -ful.",
     "question": "Identify the base word from the following.",
     "screen_type": null
   },

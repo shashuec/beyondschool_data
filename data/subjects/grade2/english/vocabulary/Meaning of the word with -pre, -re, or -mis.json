@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "The prefix -pre means before. The prefix -re means again. The prefix -mis means incorrectly or poorly.",
+      "hint": "The prefix -pre means before. <br> The prefix -re means again. <br> The prefix -mis means incorrectly or poorly",
     "question": "Determine the meaning of the word with the prefix.",
     "screen_type": null
   },
