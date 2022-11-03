@@ -7,31 +7,31 @@
   "content": [
     {
       "word": "light",
-      "description": "The sky was dark. After it rained, the sky was light again.<br>Select the antonym of the word in bold.",
+      "description": "The sky was <b>dark</b>. After it rained, the sky was light again.<br><br> Select the antonym of the word in bold.",
       "image": null,
       "extra": "again, sky, light"
     },
     {
       "word": "hello",
-      "description": "Did George say goodbye to you? I said hello to him at school.<br>Select the antonym of the word in bold.",
+        "description": "Did George say <b>goodbye</b> to you? I said hello to him at school.<br><br> Select the antonym of the word in bold.",
       "image": null,
       "extra": "George, school, hello"
     },
     {
       "word": "same",
-      "description": "He was wearing two different color socks but at least his shoes were the same.<br>Select the antonym of the word in bold.",
+        "description": "He was wearing two <b>different</b> color socks but at least his shoes were the same.<br><br> Select the antonym of the word in bold.",
       "image": null,
       "extra": "same, socks, wearing"
     },
     {
       "word": "enemies",
-      "description": "You should try to make friends, and not enemies.<br>Select the antonym of the word in bold.",
+        "description": "You should try to make <b>friends</b>, and not enemies.<br><br>Select the antonym of the word in bold.",
       "image": null,
       "extra": "enemies, make, not"
     },
     {
       "word": "early",
-      "description": "I thought we would be late, but we were early.<br>Select the antonym of the word in bold.",
+        "description": "I thought we would be <b>late</b>, but we were early.<br><br>Select the antonym of the word in bold.",
       "image": null,
       "extra": "thought, we, early"
     }
