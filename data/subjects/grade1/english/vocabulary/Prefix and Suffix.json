@@ -9,30 +9,30 @@
     "word": "less         ",
     "description": "The room was sound_____. The room was without sound.",
     "image": null,
-    "extra": "ful, less"
+    "extra": "full, less"
   },
   {
     "word": "ful",
     "description": "That painting is color_____. That painting is so full of colors.",
     "image": null,
-    "extra": "ful, "
+      "extra": "ful, less"
   },
   {
     "word": "less",
     "description": "I like seed_____ oranges. I like oranges without seed.",
     "image": null,
-    "extra": "ful, "
+    "extra": "ful,less"
   },
   {
     "word": "re",
     "description": "We must  __start the game. We must start the game again.",
     "image": null,
-    "extra": "re, "
+      "extra": "re, pre"
   },
   {
     "word": "un",
     "description": "That girl was __kind to me. That girl was not kind to me.",
     "image": null,
-    "extra": "un, "
+      "extra": "un, pre "
   }
 ]}
