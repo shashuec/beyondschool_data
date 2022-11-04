@@ -6,32 +6,32 @@
   },
   "content":[
   {
-    "word": "less         ",
-    "description": "The room was sound_____. The room was without sound.",
+    "word": "less",
+    "description": " The room was without sound.<br>The room was sound_____.",
     "image": null,
     "extra": "full, less"
   },
   {
     "word": "ful",
-    "description": "That painting is color_____. That painting is so full of colors.",
+    "description": "That painting is so full of colors.That painting is color_____. ",
     "image": null,
       "extra": "ful, less"
   },
   {
     "word": "less",
-    "description": "I like seed_____ oranges. I like oranges without seed.",
+    "description": "I like oranges without seed.I like seed _____ oranges. ",
     "image": null,
     "extra": "ful,less"
   },
   {
     "word": "re",
-    "description": "We must  __start the game. We must start the game again.",
+    "description": "We must start the game again.We must _____ start the game. ",
     "image": null,
       "extra": "re, pre"
   },
   {
     "word": "un",
-    "description": "That girl was __kind to me. That girl was not kind to me.",
+    "description": " That girl was not kind to me.That girl was _____ kind to me.",
     "image": null,
       "extra": "un, pre "
   }
