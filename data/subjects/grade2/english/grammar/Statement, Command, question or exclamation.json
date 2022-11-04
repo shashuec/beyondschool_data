@@ -7,15 +7,15 @@
   "content": [
     {
       "word": "a question",
-      "description": "What kind of sentence is this? <br>example \"Did you meet her that day?\"",
+      "description": "What kind of sentence is this? <br> \"Did you meet her that day?\"",
       "image": null,
-      "extra": "a command, example a question"
+      "extra": "a command, a question"
     },
     {
       "word": "a statement",
-      "description": "What kind of sentence is this? <br>example \"Rohini bought a new car.\"",
+      "description": "What kind of sentence is this? <br> \"Rohini bought a new car.\"",
       "image": null,
-      "extra": "a statement, example an exclaimation"
+      "extra": "a statement, an exclaimation"
     }
   ]
 }

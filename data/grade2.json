@@ -82,7 +82,7 @@
       "chapters": [
         {
           "id": "grm1",
-          "chapter_name": "Statement, Command, question or exclamation",
+          "chapter_name": "Statement, Command, Question or Exclamation",
           "unlock": 1,
           "isFetchRequired": 0,
           "request": "44*2"
