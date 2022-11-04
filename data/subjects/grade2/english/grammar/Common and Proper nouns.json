@@ -6,14 +6,14 @@
   },
   "content": [
     {
-      "word": "Grandparents",
+        "word": "Common noun",
       "description": "My <b>Grandparents </b>stay in Prayagraj. ",
       "image": null,
       "extra": "Common noun, Proper noun"
     },
     {
-      "word": "Taj Mahal",
-      "description": "We were mesmerized seeing the beauty of Taj Mahal.",
+        "word": "Proper noun",
+        "description": "We were mesmerized seeing the beauty of <b>Taj Mahal</b>.",
       "image": null,
       "extra": "Common noun, Proper noun"
     }
