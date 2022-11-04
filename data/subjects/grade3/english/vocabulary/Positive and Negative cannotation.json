@@ -34,12 +34,6 @@
             "description": "Which phrase has a more negative cannotation?",
             "image": null,
             "extra": "slam the door, shut the door"
-        },
-        {
-            "word": null,
-            "description": null,
-            "image": null,
-            "extra": null
         }
     ]
 }
