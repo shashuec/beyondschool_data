@@ -103,7 +103,7 @@
         },
         {
           "id": "grm4",
-          "chapter_name": "Which word is the noun",
+          "chapter_name": "Is word is the noun",
           "unlock": 0,
           "isFetchRequired": 0,
           "request": "44*2"
