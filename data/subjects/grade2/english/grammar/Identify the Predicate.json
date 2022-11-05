@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "The predicate of a sentence tells what the subject does or is. The Predicate must have the verb. <br> example My brother <b> ate all the pizza </b>, They <b> went to the park yesterday. </b>",
+    "hint": "The predicate of a sentence tells what the subject does or is. The Predicate must have the verb. <br> Example - My brother <b> ate all the pizza </b>, They <b> went to the park yesterday. </b>",
     "question": "Identify the predicate in the sentence.",
     "screen_type":null
   },

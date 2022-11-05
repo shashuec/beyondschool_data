@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Use 'has' if the sentence is about one person, animal, place, or, thing. <br> example Brian has a little brother. example She has two ice-creams. <br> Use have if the sentence is about more than one person, animal, place or thing. Also, use 'have' if the sentence is about you or I. <br> example The girls have many friends. example You have a pretty dress. example I have a dog.",
+    "hint": "Use 'has' if the sentence is about one person, animal, place, or, thing. <br> Example - Brian has a little brother. Example - She has two ice-creams. <br> Use have if the sentence is about more than one person, animal, place or thing. Also, use 'have' if the sentence is about you or I. <br> Example - The girls have many friends. Example - You have a pretty dress. Example - I have a dog.",
     "question": "Complete the sentence with has or have.",
     "screen_type": null
   },

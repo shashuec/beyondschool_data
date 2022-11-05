@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "Every sentence has a naming part and an action part. <br> The naming part tells who or what the sentence is about. example That building is so tall. example Rocky is sad. <br> The action part tells something about the naming part. The action part can tell what the naming part does. It can also tell what the naming part is like. example That building is so tall. example Rocky is sad.",
+    "hint": "Every sentence has a naming part and an action part. <br> The naming part tells who or what the sentence is about. Example - That building is so tall. Example - Rocky is sad. <br> The action part tells something about the naming part. The action part can tell what the naming part does. It can also tell what the naming part is like. Example - That building is so tall. Example - Rocky is sad.",
     "question": "",
     "screen_type": null
   },

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "hint": "A statement tells you about something. It ends with a full stop. example Tarun took a cookie. <br> A question asks something. It ends with a question mark. example Are you coming with me to the party? <br> An exclamation is like a statement but shows surprise or a strong feeling. It ends with an exclamation mark. example How beautiful this city is! <br> A command tells someone to do something. Most of the time, a command ends with a full stop. If it shows a strong feeling, it ends with an exclamation mark. example Open the door! Come with me.",
+    "hint": "A statement tells you about something. It ends with a full stop. Example - Tarun took a cookie. <br> A question asks something. It ends with a question mark. Example - Are you coming with me to the party? <br> An exclamation is like a statement but shows surprise or a strong feeling. It ends with an exclamation mark. Example - How beautiful this city is! <br> A command tells someone to do something. Most of the time, a command ends with a full stop. If it shows a strong feeling, it ends with an exclamation mark. Example - Open the door! Come with me.",
       "question": "Identify whether the given sentence is a statement,  question, command or an exclamation",
     "screen_type": null
   },
