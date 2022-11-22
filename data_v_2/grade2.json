@@ -1,0 +1,315 @@
+{
+  "english": [
+    {
+      "subject": "Vocabulary",
+      "sub_subject": [
+        {
+          "sub_subject": "Synonyms and Antonyms",
+          "blocks": [
+            {
+              "blockId": "0IGJkw6ODTQIOzULLt3R",
+              "created_at": "2022-11-18T15:20:28.517Z",
+              "name": "Synonyms ",
+              "status": "active",
+              "meta": {
+                "hint": "Synonyms are words with the same meaning or \nalmost the same meaning. eg. Dad and Father.",
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "question": "Select the synonym of the word in bold."
+              },
+              "modified_at": "2022-11-21T11:37:37.246Z",
+              "unlock": 1,
+              "unlock_ex": 1,
+              "sub_subject": "Synonyms and Antonyms",
+              "sub_subject_id": "6C7PmtT8x4Dg2PNckvUE"
+            },
+            {
+              "blockId": "ohOCz13BZkweJepKcLYu",
+              "created_at": "2022-11-18T15:20:35.654Z",
+              "status": "active",
+              "name": "Antonyms ",
+              "modified_at": "2022-11-21T11:37:40.821Z",
+              "meta": {
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "question": "Select the antonym.",
+                "hint": "Antonyms are words with opposite meanings."
+              },
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Synonyms and Antonyms",
+              "sub_subject_id": "6C7PmtT8x4Dg2PNckvUE"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Context clues",
+          "blocks": [
+            {
+              "blockId": "lAYs4KUPrsRRJfFG4eQT",
+              "name": "Use context to identify correct meaning",
+              "meta": {
+                "hint": "If you don't know the meaning of a word, look for context clues. <br>\nThey are nearby words that help you figure out the meaning of a \nnew word. <br> Example -  Megan was glum when her best friend moved away.  <br>\nYou can guess that 'glum' means 'sad'.",
+                "question": "Use the context to identify the meaning of the word in bold.",
+                "screen_type": "CHOSE_THE_CORRECT_WORD"
+              },
+              "modified_at": "2022-11-21T11:45:08.903Z",
+              "created_at": "2022-11-18T15:25:07.076Z",
+              "status": "active",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Context clues",
+              "sub_subject_id": "InuIeRlpov1OWaBYyWLU"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Compound words",
+          "blocks": [
+            {
+              "blockId": "OV7SmCYB0ZJ2qu4BZY8q",
+              "modified_at": "2022-11-18T10:19:18.881Z",
+              "created_at": "2022-11-18T10:17:37.002Z",
+              "meta": {
+                "hint": " ",
+                "question": "Read the smaller words to form a compound word.",
+                "screen_type": "LETTER_BY_LETTER"
+              },
+              "name": "Form Compound words",
+              "status": "active",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Compound words",
+              "sub_subject_id": "cYjHMP4FIPLAGl7n5Ln1"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Homophones",
+          "blocks": [
+            {
+              "blockId": "6zO2vSPUN2E7uaQFYkMI",
+              "modified_at": "2022-11-21T11:42:16.421Z",
+              "status": "active",
+              "meta": {
+                "hint": "\"<b> Homophones </b> are words that sound the same but \nhave different spellings and meanings. <br> \nExample - My friends and I buy lunch at school. \n                 Buy means to pay for something. <br> \n\nExample - Then we all eat together by the big tree.\n                 By means near. <br> \n\nExample - We say bye to each other when the bell rings.\n                 Bye is short for goodbye.\"",
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "question": "Homophones in sentences"
+              },
+              "created_at": "2022-11-18T15:21:33.343Z",
+              "name": "Homophones in sentence",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Homophones",
+              "sub_subject_id": "i4Z8U2IoocaJ67vqh4gd"
+            },
+            {
+              "blockId": "o8Wj68Y1EAREivRxdMjN",
+              "created_at": "2022-11-18T15:21:49.696Z",
+              "meta": {
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "hint": "\"<b> Homophones </b> are words that sound the same but \nhave different spellings and meanings. <br> \nExample - My friends and I buy lunch at school. \n                 Buy means to pay for something. <br> \n\nExample - Then we all eat together by the big tree.\n                 By means near. <br> \n\nExample - We say bye to each other when the bell rings.\n                 Bye is short for goodbye.\"",
+                "question": "Use correct homophone"
+              },
+              "status": "active",
+              "name": "Use correct homophone",
+              "modified_at": "2022-11-21T11:42:28.231Z",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Homophones",
+              "sub_subject_id": "i4Z8U2IoocaJ67vqh4gd"
+            },
+            {
+              "blockId": "rm35UPOmzRzmmOQdHd9X",
+              "modified_at": "2022-11-21T11:44:22.439Z",
+              "status": "active",
+              "created_at": "2022-11-18T15:21:24.244Z",
+              "meta": {
+                "hint": "<b> Homophones </b> are words that sound the same but \nhave different spellings and meanings. <br> \nExample - My friends and I buy lunch at school. \n                 Buy means to pay for something. <br> \n\nExample - Then we all eat together by the big tree.\n                 By means near. <br> \n\nExample - We say bye to each other when the bell rings.\n                 Bye is short for goodbye.",
+                "question": "Identify the correct homophone.",
+                "screen_type": "CHOSE_THE_CORRECT_WORD"
+              },
+              "name": "Homophones with pictures",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Homophones",
+              "sub_subject_id": "i4Z8U2IoocaJ67vqh4gd"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Categorization ",
+          "blocks": [
+            {
+              "blockId": "oIBKYQ7R4h3P5CuyKwhK",
+              "meta": {
+                "hint": "\"Some words are alike. They go together\nin a group. eg. Red, Green, and blue go \ntogether in the colors group.\"",
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "question": "Find the odd one out  from the group of words."
+              },
+              "status": "active",
+              "created_at": "2022-11-18T15:18:57.185Z",
+              "name": "Odd one out from the group",
+              "modified_at": "2022-11-21T11:41:40.107Z",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Categorization ",
+              "sub_subject_id": "oa7BfSSEG3oihgIy1lYI"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Preffix and Suffix",
+          "blocks": [
+            {
+              "blockId": "NxElkpPDSuZr00dUpEJ1",
+              "status": "active",
+              "created_at": "2022-11-18T09:57:56.091Z",
+              "modified_at": "2022-11-18T14:30:20.793Z",
+              "meta": {
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "hint": "The prefix -pre means before. <br> The prefix -re means again. <br> The prefix -mis means incorrectly or poorly",
+                "question": "Determine the meaning of the word with the prefix."
+              },
+              "name": "Meaning of the word with -pre, -re, or -mis",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Preffix and Suffix",
+              "sub_subject_id": "vfiVLfE0fTnpKpeV9Xik"
+            },
+            {
+              "blockId": "QTkuMaExPHMnpeJt4MS5",
+              "name": "Base word,prefix,suffix",
+              "status": "active",
+              "modified_at": "2022-11-18T10:01:05.834Z",
+              "meta": {
+                "question": "Identify the base word, prefix or suffix from the following.",
+                "hint": "Base words are words that can be combined with prefixes and suffixes. They also can be used on their own. <br> Example - Unhelpful -> Base word is help, the prefix is -un, and the suffix is -ful.\n",
+                "screen_type": "CHOSE_THE_CORRECT_WORD"
+              },
+              "created_at": "2022-11-15T14:29:01.465Z",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Preffix and Suffix",
+              "sub_subject_id": "vfiVLfE0fTnpKpeV9Xik"
+            },
+            {
+              "blockId": "Rj5DtUECaykXoxEtvoKB",
+              "meta": {
+                "hint": "\"The suffix -ful means full of. <br> \nThe suffix -less means without.\"",
+                "question": "Determine the meaning of the word with the prefix.",
+                "screen_type": "CHOSE_THE_CORRECT_WORD"
+              },
+              "created_at": "2022-11-18T09:58:04.602Z",
+              "modified_at": "2022-11-20T07:21:59.783Z",
+              "name": "Meaning of the word with -ful or -less.",
+              "status": "active",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Preffix and Suffix",
+              "sub_subject_id": "vfiVLfE0fTnpKpeV9Xik"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Shades of meaning",
+          "blocks": [
+            {
+              "blockId": "s4NzxqKpVcsHwXjYTHmP",
+              "meta": {
+                "hint": "Some words are alike, but they have small differences in meaning. Those differences are called \n<b> shades of meaning </b>, <br>\nFor example, think about the words stare, peek, and glare.\nWord        Definition \nstare        to look at something for a while \npeek        to look at something quickly\nglare        to look at something in an angry way \nStare, peek, and glare all mean to look at something, but in different ways.",
+                "question": "Describe the difference between related words.",
+                "screen_type": "CHOSE_THE_CORRECT_WORD"
+              },
+              "name": "Difference between related words",
+              "modified_at": "2022-11-21T11:38:29.646Z",
+              "created_at": "2022-11-18T15:24:41.782Z",
+              "status": "active",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Shades of meaning",
+              "sub_subject_id": "zmstLrewg6VddS0wHpsX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Grammar",
+      "sub_subject": [
+        {
+          "sub_subject": "Sentence, fragments and run-ons",
+          "blocks": [
+            {
+              "blockId": "GsiNZzB0euvUTrjvK2ko",
+              "status": "active",
+              "meta": {
+                "hint": "A <b>sentence</b> is a group of words that forms a complete thought.  <br> \nIt has both a subject and a verb.\nExample - My friends walk along the path. <br> \n\nA <b>sentence fragment </b> is a group of words that does not express \na complete thought. It is usually missing a subject or a verb. <br> \nExample - Knows the answer.\nThis is a sentence fragment. It is missing a subject.\nWho knows the answer? She knows the answer. <br> \n\nExample -The bright red car.\nThis is a sentence fragment. It is missing a verb.\nWhat did the bright red car do? The bright red car stopped.  <br> \n\nA <b> run-on sentence </b> also called a <b> run-together sentence </b>, \nis made up of two sentences that should stand alone. <br> \nExample - I knocked on the door it opened. <br> \nTo fix a run-on sentence, separate it into two sentences. \nAdd a full stop after the first sentence, and use a capital letter at the \nbeginning of the second sentence.\nExample - I knocked on the door. It opened.",
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "question": "Is it a complete sentence,  a fragment or a run-on sentence?"
+              },
+              "name": "A Complete sentence or a Sentence fragment or run-on sentence?",
+              "created_at": "2022-11-18T09:20:17.254Z",
+              "modified_at": "2022-11-18T09:27:34.443Z",
+              "unlock": 1,
+              "unlock_ex": 1,
+              "sub_subject": "Sentence, fragments and run-ons",
+              "sub_subject_id": "hYm267Lx03hWof7QIViw"
+            },
+            {
+              "blockId": "cc7fmM4BDcXJwuFhoI7w",
+              "meta": {
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "hint": "A statement tells you about something. It ends \nwith a full stop. eg. Tarun took a cookie. <br> \n\nA question asks something. It ends with a question mark. \neg. Are you coming with me to the party? <br> \n\nAn exclamation is like a statement but shows surprise or a \nstrong feeling. It ends with an exclamation mark.\neg. How beautiful this city is! <br> \n\nA command tells someone to do something. Most of the \ntime, a command ends with a full stop. If it shows a strong \nfeeling, it ends with an exclamation mark.\neg. Open the door!\n      Come with me.",
+                "question": "Identify whether the given sentence is a statement, question, command or exclamation?"
+              },
+              "created_at": "2022-11-18T09:20:07.741Z",
+              "modified_at": "2022-11-18T09:31:59.307Z",
+              "name": "Statement, Command, question or exclamation?",
+              "status": "active",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Sentence, fragments and run-ons",
+              "sub_subject_id": "hYm267Lx03hWof7QIViw"
+            }
+          ]
+        },
+        {
+          "sub_subject": "Nouns",
+          "blocks": [
+            {
+              "blockId": "4hFP0SVrmakHQVxBrg5A",
+              "created_at": "2022-11-18T09:37:56.805Z",
+              "meta": {
+                "hint": "A noun is a word that names a person, place, or thing. <br> \n\nA common noun names a general type of person, place, or thing. A common noun \ndoes not begin with a capital letter, except when it is the first word in a sentence. <br> \n\nA proper noun names a specific person, place, or thing. A proper noun always \nbegins with a capital letter. <br> \nCommon Nouns          Proper Nouns\n       Boy                              Jacob\n       Day                            Tuesday\n      Street                        Elm Street\n       City                             Mumbai",
+                "screen_type": "CHOSE_THE_CORRECT_WORD",
+                "question": "Identify whether the noun in bold  is a common or proper noun."
+              },
+              "name": "Common and Proper nouns",
+              "modified_at": "2022-11-18T09:43:20.809Z",
+              "status": "active",
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Nouns",
+              "sub_subject_id": "qPtNoL1gNFRNv8A9EdEv"
+            },
+            {
+              "blockId": "94BDmjE1kkbydUNf1lV7",
+              "created_at": "2022-11-18T09:37:46.061Z",
+              "name": "Which word is the noun?",
+              "status": "active",
+              "modified_at": "2022-11-18T09:42:30.983Z",
+              "meta": {
+                "hint": "A noun is a word that names a person, place or thing. <br> \nSome nouns name people, like woman, friend and teacher. <br> \nSome nouns name places, like town, library and park. <br> \nSome nouns name things, like bicycle, horse and flower. ",
+                "question": "Is the word in bold a noun?",
+                "screen_type": "CHOSE_THE_CORRECT_WORD"
+              },
+              "unlock": 0,
+              "unlock_ex": 0,
+              "sub_subject": "Nouns",
+              "sub_subject_id": "qPtNoL1gNFRNv8A9EdEv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
